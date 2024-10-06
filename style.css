@@ -12,15 +12,15 @@
 
 
 .asif{
-    font-size: 170px;
-    border: 20px solid chartreuse;
+    font-size: 100px;
+    border: 10px solid chartreuse;
     width: 250px;
     cursor: pointer;
     background-color: brown;
     color: chartreuse;
     transition: all .3s ease;
-
-   
+    text-align: center;
+    border-radius: 20px;
 }
 
 .asif:active{
