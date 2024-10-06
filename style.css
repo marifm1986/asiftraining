@@ -1,0 +1,28 @@
+/* .asif{
+    font-size: 170px;
+    border: 20px solid rgb(194, 8, 101);
+    width: 250px;
+    cursor: pointer;
+    background: lightpink;
+    transition: all .3s ease;
+    &:active{
+        scale: .9;
+    }
+} */
+
+
+.asif{
+    font-size: 170px;
+    border: 20px solid chartreuse;
+    width: 250px;
+    cursor: pointer;
+    background-color: brown;
+    color: chartreuse;
+    transition: all .3s ease;
+
+   
+}
+
+.asif:active{
+    scale: .9;
+}
